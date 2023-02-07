@@ -4,6 +4,8 @@ class NTestClass
 private:
 	int a;
 	int b;
+	
+	///////////////// 
 
 public:
 	NTestClass();
